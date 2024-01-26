@@ -19,6 +19,7 @@ function App(): JSX.Element {
       {/* <Text>Hello Guys</Text>
       <Button title='Get Data'></Button> */}
       <Data/>
+      
     </SafeAreaView>
     </Provider>
   );
